@@ -13,7 +13,6 @@
 - This dataset derives from Kaggle.
 ''' 
 Link:
-- Variables
 | Variable                         | Description                          |
 |----------------------------------|--------------------------------------|
 | months_as_customer               | Number of months as a customer       |
