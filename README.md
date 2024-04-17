@@ -10,7 +10,6 @@
 - The reason we are doing this to see explore different insight to fraud mechanism
 
 #### Datasets: 
-- This dataset derives from Kaggle.
 ''' 
 Link:
 | Variable                         | Description                          |
