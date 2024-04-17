@@ -55,9 +55,12 @@ Link:
 | fraud_reported                   | Whether fraud was reported           |
 | _c39                             | Placeholder for additional data      |
 
-#### Project Folder Structure:
-''' 
-your-repository-name/
+## Folder Structure
+
+The project is structured as follows:
+
+```plaintext
+repository-name/
 │
 ├── data/
 │   └── insurance_claims.csv       # Dataset file
@@ -69,10 +72,10 @@ your-repository-name/
 │   └── featureengineering_clusteranalysis.ipynb  # Feature engineering and cluster analysis
 │
 ├── task3/
-│   └── featureengineering_predictivemodeling.ipynb  # Continuation of feature engineering and predictive modeling
+│   └── featureengineering_predictivemodeling.ipynb  # Predictive modeling
 │
 ├── task4/
-│   └── predicting_fraud_claims.ipynb  # Notebook for predicting fraud claims
+│   └── predicting_fraud_claims.ipynb  # Predicting fraud claims
 │
 └── README.md                          # README file for the repository
 
